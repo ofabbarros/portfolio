@@ -1,2 +1,2 @@
 # Portfolio Web Site
-Simple Portfolio website to practice html + css + js
+Simple Portfolio website to practice html + css
