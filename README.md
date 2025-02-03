@@ -1,2 +1,2 @@
-# Library Web Site
-Simple website to practice html + css + js
+# Portfolio Web Site
+Simple Portfolio website to practice html + css + js
